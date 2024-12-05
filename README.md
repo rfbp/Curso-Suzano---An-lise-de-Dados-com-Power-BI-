@@ -22,7 +22,7 @@ Apresentar a evolucao do apredizado durante o curso.
       <td>01</td>
       <td>Primeira tarefa - Refinamento Banco de dados para E-Commerce</td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/01-visao-geral-do-curso-e-ferramentas.md">
+        <a href="[https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/01-visao-geral-do-curso-e-ferramentas.md](https://github.com/rfbp/Curso-Suzano-Analise-de-Dados-com-Power-BI/blob/main/e-commerce.pdf)">
            <img align="center" alt="Tarefa 1" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
