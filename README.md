@@ -41,7 +41,7 @@ Os mecânicos possuem código, nome, endereço e especialidade
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
       </td>
       <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/02-instalacao-configuracao-e-autenticacao.md">
+        <a href="https://github.com/rfbp/Curso-Suzano-Analise-de-Dados-com-Power-BI/blob/main/oficina-mecanica.png">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>
